@@ -2,4 +2,4 @@
 
 
 
-This web is functioning properly . To test yourself , open the project link in two windows and try sending messages from both ends.
+This web app is functioning properly . To test yourself, open the project link in two windows and try sending messages from both ends.
